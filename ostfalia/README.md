@@ -1,5 +1,5 @@
 <img src="https://github.com/truillet/international/blob/master/ostfalia/logo/ostfalia.png" width=150>
-<h1>International week - 03-07 decembre 2018</h1>
+<h1>International week - 03-07 december 2018</h1>
 
 After an introduction of Human-Computer Interaction fundamentals, this lecture will explore new kinds of interactive systems : vocal interaction, tangible and advanced interactive systems, ...
 

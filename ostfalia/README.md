@@ -7,4 +7,17 @@ This course will propose practical work including aparticipative design session,
 
 The main prototyping language used in this lecture will be processing.org [i.e.java actually in an easy way;)].
 
-All the documents used during the International Week 2018 in Ostfalia university can be found in the Wiki section.
+All the documents used during the International Week 2018 in Ostfalia university can be found below.
+
+<h1>Lectures</h1>
+<ul>
+  <li><a href="https://github.com/truillet/international/blob/master/ostfalia/lectures/intro_HCI_1.3.pdf" target=_blank>Introduction to HCI</a></li>
+  <li><a href="https://github.com/truillet/international/blob/master/ostfalia/lectures/C_processing.org_2.2.pdf" target=_blank>Introduction to processing.org</a></li>
+</ul>
+
+<h1>Practicals</h1>
+<ul>
+  <li><a href="https://github.com/truillet/international/blob/master/ostfalia/practicals/Interaction_Design_1.3.pdf" target=_blank>Participative Design Process</a></li>
+  <li>Project</li>
+  <li><a href="https://github.com/truillet/international/blob/master/ostfalia/practicals/TP_processing.2.5_WF.pdf" target=_blank>Processing : some exercices</a></li>
+</ul>

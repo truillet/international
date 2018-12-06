@@ -3,7 +3,7 @@
 
 After an introduction of Human-Computer Interaction fundamentals, this lecture will explore new kinds of interactive systems : vocal interaction, tangible and advanced interactive systems, ...
 
-This course will propose practical work including aparticipative design session, and prototyping (including different devices such as leap motion, eye trackers, ... arduinos & raspberry pi compatible devices - provided during the session) aiming to build in a easy way and limited time complex systems using environemen "new technologies".
+This course will propose practical work including a participative design session and prototyping phase (including different devices such as leap motion, eye tracker, ... arduino & raspberry pi compatible devices - provided during the session) aiming to build in a easy way and limited time complex systems using "new technologies".
 
 The main prototyping language used in this lecture will be processing.org [i.e.java actually in an easy way;)].
 

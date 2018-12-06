@@ -29,5 +29,9 @@ All the documents used during the International Week 2018 in Ostfalia university
   <li><a href="https://github.com/truillet/inter</a>national/blob/master/ostfalia/code/myPieMenu.zip" target=_blank>myPieMenu: a Pie Menu {right-click fist then choose "Choice 1" item}</a></li>  
   <li><a href="https://github.com/truillet/inter</a>national/blob/master/ostfalia/code/mySlogans.zip" target=_blank>mySlogans: some slogans {use some threads}</a></li>
   <li><a href="https://github.com/truillet/inter</a>national/blob/master/ostfalia/code/TopCodeAlarm.zip" target=_blank>TopCodeAlarm: an animated alarm put on TopCode</a></li>
+  <li><a href="https://github.com/truillet/inter</a>national/blob/master/ostfalia/code/RecoChrome.zip" target=_blank>Basic Speech recognition & TTS {uses Google Chrome}</a></li>
   <li><a href="https://github.com/truillet/inter</a>national/blob/master/ostfalia/code/Example_kinect.zip" target=_blank>ExampleKinect: an example with kinect libray {need to install fisrt</a></li> 
  </ul>
+ 
+ <h2>Undocumented functions in Processing (in french)</h2>
+  Link there --&gt;<a href="https://github.com/truillet/processing/wiki" target = _blank">Documentation</a>lt;--

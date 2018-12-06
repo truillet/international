@@ -34,4 +34,4 @@ All the documents used during the International Week 2018 in Ostfalia university
  </ul>
  
  <h2>Undocumented functions in Processing (in french)</h2>
-  Link there --&gt;<a href="https://github.com/truillet/processing/wiki" target = _blank">Documentation</a>lt;--
+  Link there --&gt;<a href="https://github.com/truillet/processing/wiki" target = _blank">Documentation</a>&lt;--

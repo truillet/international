@@ -24,6 +24,7 @@ All the documents used during the International Week 2018 in Ostfalia university
  
  <h2>Some advanced examples in Processing</h2>
  <ul>
+  <li><a href="https://github.com/truillet/inter</a>national/blob/master/ostfalia/code/myClock.zip" target=_blank>myClock: yet another clock</a></li>
   <li><a href="https://github.com/truillet/inter</a>national/blob/master/ostfalia/code/HexaMenu.zip" target=_blank>HexaMenu: a menu composed with Hexagons {click on it}</a></li>
   <li><a href="https://github.com/truillet/inter</a>national/blob/master/ostfalia/code/myPieMenu.zip" target=_blank>myPieMenu: a Pie Menu {right-click fist then choose "Choice 1" item}</a></li>  
   <li><a href="https://github.com/truillet/inter</a>national/blob/master/ostfalia/code/mySlogans.zip" target=_blank>mySlogans: some slogans {use some threads}</a></li>

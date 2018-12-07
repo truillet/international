@@ -20,6 +20,7 @@ All the documents used during the International Week 2018 in Ostfalia university
   <li><a href="https://github.com/truillet/international/blob/master/ostfalia/practicals/Interaction_Design_1.3.pdf" target=_blank>Participative Design Process</a></li>
   <li><a href="https://github.com/truillet/international/blob/master/ostfalia/practicals/Project_WF_2018.pdf" target=_blank">Project</a></li>
   <li><a href="https://github.com/truillet/international/blob/master/ostfalia/practicals/TP_processing.2.5_WF.pdf" target=_blank>Processing : some exercises</a></li>
+  <li><a href="https://github.com/truillet/international/blob/master/ostfalia/practicals/usability.pdf" target=_blank>Usability</a> (<a href="https://github.com/truillet/international/blob/master/ostfalia/documents/sus.pdf" target=_blank>SUS - A quick and dirty usability scale</a>)</li>    
 </ul>
  
  <h2>Some advanced examples in Processing</h2>

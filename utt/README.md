@@ -4,7 +4,7 @@
 ## Supports de cours
 
 * **Cours1** : [Prototypage](https://github.com/truillet/international/blob/master/utt/supports/prototypage.pdf)
-* **Cours1b** : Introduction à Processing
+* **Cours1b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf)
 * **TP1** : [Initiation à Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP1_processing.pdf)
 
 * **TD1** : Conception de Systèmes Avancés 

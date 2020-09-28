@@ -1,14 +1,15 @@
 <img src="https://github.com/truillet/international/blob/master/utt/code/utt.png" width=150>
-#IF37 - Conception de Systèmes Interactifs
+# IF37 - Conception de Systèmes Interactifs
 
 ## Supports de cours
 
-* **Cours1** : [Prototpyage](https://github.com/truillet/international/blob/master/utt/supports/prototypage.pdf)
-* **TP1** : Initiation à Processing.org
+* **Cours1** : [Prototypage](https://github.com/truillet/international/blob/master/utt/supports/prototypage.pdf)
+* **Cours1b** : Introduction à Processing
+* **TP1** : [Initiation à Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP1_processing.pdf)
 
 * **TD1** : Conception de Systèmes Avancés 
-* **BE** 
-* **TP1** : Processing.org 
+* **BE** :
+
 
 ### Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)

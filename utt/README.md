@@ -8,7 +8,7 @@
 * **TP1** : [Initiation à Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP1_processing.pdf)
 
 * **TD1** : Conception de Systèmes Avancés 
-* **BE** :
+* **Bureau d'Etudes** : prototypage rapide
 
 
 ### Quelques liens à lire / parcourir

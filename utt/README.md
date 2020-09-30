@@ -7,9 +7,10 @@
 * **Cours1b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf)
 * **TP1** : [Initiation à Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP1_processing.pdf)
 
-* **TD1** : Conception de Systèmes Avancés 
+* **TD1** : [Conception de Systèmes Avancés](https://github.com/truillet/international/blob/master/utt/supports/CSI_v1.9.pdf)
 * **Bureau d'Etudes** : prototypage rapide
 
+* **Devoir à rendre** : 
 
 ### Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)

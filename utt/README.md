@@ -1,5 +1,5 @@
 <img src="https://github.com/truillet/international/blob/master/utt/code/utt.png" width=150>
-#IF37 - Conception de Systèmes Interactifs
+# IF37 - Conception de Systèmes Interactifs
 
 ## Supports de cours
 

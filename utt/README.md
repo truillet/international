@@ -8,9 +8,9 @@
 * **TP1** : [Initiation à Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP1_processing.pdf)
 
 * **TD1** : [Conception de Systèmes Avancés](https://github.com/truillet/international/blob/master/utt/supports/CSI_v1.9.pdf)
-* **Bureau d'Etudes** : prototypage rapide
+* **Bureau d'Etudes** : [prototypage rapide](https://github.com/truillet/international/blob/master/utt/supports/BE_prototypage_2020.pdf)
 
-* **Devoir à rendre** : 
+* **Devoir à rendre** : Pour le 1er décembre, détails
 
 ### Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)

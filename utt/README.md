@@ -10,8 +10,7 @@
 
 * **TD1** : [Conception de Systèmes Avancés](https://github.com/truillet/international/blob/master/utt/supports/CSI_v1.9.pdf)
 * **Bureau d'Etudes** : [prototypage rapide](https://github.com/truillet/international/blob/master/utt/supports/BE_prototypage_2020.pdf)
-
-* **Devoir à rendre** : Pour le 1er décembre, détails
+* **Devoir à rendre** : Pour le 1er décembre, détails dans le document "Bureau d'Etudes"
 
 ### Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)

@@ -18,6 +18,17 @@
  * **Cours** : Vers le multimodal, un peu de parole
  * **Cours** : Vers le multimodal, un peu de geste
  
+ * **TP1** - [Interaction vocale](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/TP1_interaction_vocale.pdf) (2020)
+ * **Les outils utilisés dans le TP** : Agent de reconnaissance vocale [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale [ppilot5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/ppilot5.zip), outil de supervision ivy [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip)
+
+_Exemple de code Processing permettant l'affichage de la reconnaissance vocale et envoi vers la synthèse_ : **[vocal_ivy](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/vocal_ivy.zip)**
+ * **TP2** - [Interaction gestuelle](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/TP2_InteractionGestuelle.pdf) (2020)
+
+_Exemple de code Processing permettant l'enregistrement de formes dessinées à l'écran_ : **[Enregistrement Forme](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Enregistrement_Forme.zip)**
+
+_Autres ressources_
+   * ICAR (implémentation de l'algorithme de Rubine) [code source](https://github.com/truillet/icar), [fichier jar](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.1.2.zip) et [documentation](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.pdf)
+   * OneDollarRecognition (Implémentation de l'algorithme $1 Recognition)
 
 ### Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)

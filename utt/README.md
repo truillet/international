@@ -27,7 +27,7 @@ _Exemple de code Processing permettant l'affichage de la reconnaissance vocale e
 
 _Exemple de code Processing permettant l'enregistrement de formes dessinées à l'écran_ : **[Enregistrement Forme](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Enregistrement_Forme.zip)**
 
-_Autres ressources_
+**Des systèmes de reconnaissance de gestes**
    * ICAR (implémentation de l'algorithme de Rubine) [code source](https://github.com/truillet/icar), [fichier jar](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.1.2.zip) et [documentation](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.pdf)
    * [IcarP5](https://github.com/truillet/international/blob/master/utt/code/IcarP5.zip) (Intégration avec Processing.org d'ICAR)
    * [OneDollarRecognition](https://github.com/truillet/OneDollarRecognizer) (Implémentation de l'algorithme $1 Recognition)

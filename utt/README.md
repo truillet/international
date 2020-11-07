@@ -30,7 +30,7 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
 
 _Autres ressources_
    * ICAR (implémentation de l'algorithme de Rubine) [code source](https://github.com/truillet/icar), [fichier jar](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.1.2.zip) et [documentation](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.pdf)
-   * [IcarP5]() (Implémentation en Processing.org d'ICAR)
+   * [IcarP5](https://github.com/truillet/international/blob/master/utt/code/IcarP5.zip) (Intégration avec Processing.org d'ICAR)
    * [OneDollarRecognition](https://github.com/truillet/OneDollarRecognizer) (Implémentation de l'algorithme $1 Recognition)
 
 ### Quelques liens à lire / parcourir

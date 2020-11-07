@@ -15,7 +15,7 @@
 * **TP2** : [Processing avancé](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP2_processing.pdf)
 
 ### Séance 3
- * **Cours** : Vers le multimodal, un peu de parole
+ * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/ups/blob/master/m2ihm/Cours/I_V(IO)_Master_2_7.pdf)
  * **Cours** : Vers le multimodal, un peu de geste
  
  * **TP1** - [Interaction vocale](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/TP1_interaction_vocale.pdf) (2020)
@@ -30,7 +30,8 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
 
 _Autres ressources_
    * ICAR (implémentation de l'algorithme de Rubine) [code source](https://github.com/truillet/icar), [fichier jar](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.1.2.zip) et [documentation](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.pdf)
-   * OneDollarRecognition (Implémentation de l'algorithme $1 Recognition)
+   * [IcarP5]() (Implémentation en Processing.org d'ICAR)
+   * [OneDollarRecognition](https://github.com/truillet/OneDollarRecognizer) (Implémentation de l'algorithme $1 Recognition)
 
 ### Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)

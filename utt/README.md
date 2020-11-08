@@ -23,7 +23,7 @@
 
 _Exemple de code Processing permettant l'affichage de la reconnaissance vocale et envoi vers la synthèse_ : **[vocal_ivy](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/vocal_ivy.zip)**
  
- * **TP2** - [Interaction gestuelle](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/TP2_InteractionGestuelle.pdf) (2020)
+ * **TP4** - [Interaction gestuelle](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/TP2_InteractionGestuelle.pdf) (2020)
 
 _Exemple de code Processing permettant l'enregistrement de formes dessinées à l'écran_ : **[Enregistrement Forme](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Enregistrement_Forme.zip)**
 

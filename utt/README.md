@@ -37,7 +37,7 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
    * [OneDollarRecognition](https://github.com/truillet/OneDollarRecognizer) (Implémentation de l'algorithme $1 Recognition)
   
 ### Séance 4
- * **Cours** : [Les systèmes Mixtes]()
+ * **Cours** : [Les systèmes Mixtes](https://github.com/truillet/international/blob/master/utt/supports/realite_mixte.pdf)
  
  ### Séance 5
  * **Cours** : [Prototypage Physique, un peu d'arduino ou autre]()

@@ -16,12 +16,12 @@
 
 ### Séance 3
  * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/ups/blob/master/m2ihm/Cours/I_V(IO)_Master_2_7.pdf)
- * **Cours** : Vers le multimodal, un peu de geste 
+ * **Cours** : [Vers le multimodal, un peu de geste]()
  * **TP3** - [Interaction vocale](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/TP1_interaction_vocale.pdf) (2020)
  
  **Les outils utilisés dans le TP** : Agent de reconnaissance vocale [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale [ppilot5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/ppilot5.zip), outil de supervision ivy [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) (lien vers le --> [bus ivy](https://github.com/truillet/ivy) <--)
  
-_Exemple de code Processing permettant la reconnaissance vocale avec Google Chrome_ : **[RecoChrome]()**
+_Exemple de code Processing permettant la reconnaissance vocale avec Google Chrome_ : **[RecoChrome](https://github.com/truillet/international/blob/master/utt/code/RecoChrome.zip)**
 
 _Exemple de code Processing permettant l'affichage de la reconnaissance vocale et envoi vers la synthèse_ : **[vocal_ivy](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/vocal_ivy.zip)**
  

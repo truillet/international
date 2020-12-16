@@ -41,6 +41,10 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
  
  ### Séance 5
  * **Cours** : [Prototypage Physique, un peu d'arduino ou autre]()
+ 
+ Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois]
+ 
+ 
 
 ### Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)

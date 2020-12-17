@@ -40,7 +40,7 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
  * **Cours** : [Les systèmes Mixtes](https://github.com/truillet/international/blob/master/utt/supports/realite_mixte.pdf)
  
  ### Séance 5
- * **Cours** : [Prototypage Physique, un peu d'arduino](https://github.com/truillet/international/blob/master/utt/supports/arduino_UTT.pdf)
+ * **Cours/TP** : [Prototypage Physique, un peu d'arduino](https://github.com/truillet/international/blob/master/utt/supports/arduino_UTT.pdf)
  * **Cours** : [Introduction au Raspberry Pi](https://github.com/truillet/international/blob/master/utt/supports/Introduction_RPi.pdf)
  
  **Code**

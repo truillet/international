@@ -49,6 +49,7 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
  * [neopixel - des leds multicolores](https://github.com/truillet/international/blob/master/utt/code/neopixel_ESP32.zip)
  * [Near Field Communication - un capteur NFC](https://github.com/truillet/international/blob/master/utt/code/NFC_ESP32.zip)
  * [Point d'accès WiFi](https://github.com/truillet/international/blob/master/utt/code/AcessPoint_ESP32.zip)
+ * [Exemple de liaison série processing/Arduino](https://github.com/truillet/international/blob/master/utt/code/processing_arduino.zip)
  
  Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois]
  

@@ -1,4 +1,4 @@
-# (in)ternational lectures
+# (inter)national lectures
 National and International lectures (from september 2010 until ... now :))
 
 * [Université Amar Telidji - Laghouat](http://lagh-univ.dz) (Algérie)

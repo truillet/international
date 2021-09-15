@@ -3,8 +3,11 @@
 
 ## Supports de cours
 
-<!--
 ### Séance 1
+* **Cours1** : [Inclusivité]()
+
+<!--
+
 * **Cours1** : [Prototypage](https://github.com/truillet/international/blob/master/utt/supports/prototypage.pdf)
 * **Cours1b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf)
 * **TP1** : [Initiation à Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP1_processing.pdf)
@@ -22,7 +25,7 @@
 
 * **TP3** - [Interaction vocale](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/TP1_interaction_vocale.pdf) (2020)
  
- **Les outils utilisés dans le TP** : Agent de reconnaissance vocale [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale [ppilot5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/ppilot5.zip), outil de supervision ivy [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) (lien vers le --> [bus ivy](https://github.com/truillet/ivy) <--)
+ **Les outils utilisés dans le TP** : Agent de reconnaissance vocale [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale [ppilot5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/ppilot5.zip), outil de supervision ivy [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) (lien vers le -> [bus ivy](https://github.com/truillet/ivy) <--)
  
 -->
 <!--

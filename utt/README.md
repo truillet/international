@@ -1,10 +1,15 @@
 <img src="https://github.com/truillet/international/blob/master/utt/code/utt.png" width=150>
 <h1>IF37 - Conception de Systèmes Interactifs</h1>
 
-## Supports de cours
+# Supports de cours
 
-### Séance 1
-* **Cours1** : [Inclusivité]()
+## Séance 1
+* **Cours1** : [Inclusivité](https://github.com/truillet/international/blob/master/utt/supports/Handicap.pdf)
+* **TP1** : 
+
+### Liens
+* [color blindness](https://www.color-blindness.com/coblis-color-blindness-simulator)
+* [NVDA - Non Visual Desktop Access](https://www.nvda-fr.org)
 
 <!--
 
@@ -59,19 +64,20 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
  * [Exemple de liaison série processing/Arduino](https://github.com/truillet/international/blob/master/utt/code/processing_arduino.zip)
  
  Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois]
+ -->
  
  
 
-### Quelques liens à lire / parcourir
+## Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)
 * [Microsoft, Human-Computer Interaction in the Year 2020](https://www.microsoft.com/en-us/research/project/being-human/#:~:text=Human%2DComputer%20Interaction%20in%20the%20Year%202020&text=As%20we%20move%20further%20the,enables%20and%20recognizes%20human%20values.)
 * [Reimagining Participatory Design](http://interactions.acm.org/archive/view/january-february-2019/reimagining-participatory-design), ACM Interactions, January-February 2019, p.26
 * [ACM Interactions Magazine](http://interactions.acm.org)
 * [R. Bolt, "Put-That-There": Voice and Gesture at the Graphics Interface, SIGGRAPH 1980](https://www.media.mit.edu/speech/papers/1980/bolt_SIGGRAPH80_put-that-there.pdf)
 * [Sh. Oviatt, Ten Myths on Multimodal Interaction, Communication of the ACM, volume 42, Issue 11, November 1999](https://dl.acm.org/doi/10.1145/319382.319398)
--->
 
-### Liens utiles
+
+## Liens utiles
 * [Processing in Java](https://happycoding.io/tutorials/java/processing-in-java) : configurer Eclipse pour Processing
 * [Processing in Java](https://github.com/ctruillet/ProcessingOnIntellijIDEA) : configurer IntelliJ IDEA pour Processing
 * [FlatIcons](https://flaticons.net) : des icônes libres de droit 

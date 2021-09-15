@@ -3,6 +3,7 @@
 
 ## Supports de cours
 
+<!--
 ### Séance 1
 * **Cours1** : [Prototypage](https://github.com/truillet/international/blob/master/utt/supports/prototypage.pdf)
 * **Cours1b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf)
@@ -62,7 +63,7 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
 * [ACM Interactions Magazine](http://interactions.acm.org)
 * [R. Bolt, "Put-That-There": Voice and Gesture at the Graphics Interface, SIGGRAPH 1980](https://www.media.mit.edu/speech/papers/1980/bolt_SIGGRAPH80_put-that-there.pdf)
 * [Sh. Oviatt, Ten Myths on Multimodal Interaction, Communication of the ACM, volume 42, Issue 11, November 1999](https://dl.acm.org/doi/10.1145/319382.319398)
-
+-->
 
 ### Liens utiles
 * [Processing in Java](https://happycoding.io/tutorials/java/processing-in-java) : configurer Eclipse pour Processing

@@ -4,7 +4,8 @@
 # Supports de cours
 
 ## Séance 1
-* **Cours1** : [Inclusivité](https://github.com/truillet/international/blob/master/utt/supports/Handicap.pdf)
+* **Cours 1** : [IHM : un survol](https://github.com/truillet/international/blob/master/utt/supports/survol_ihm_3_8.pdf)
+* **Cours1b** : [Inclusivité](https://github.com/truillet/international/blob/master/utt/supports/Handicap.pdf)
 * **TP1** : 
 
 ### Liens

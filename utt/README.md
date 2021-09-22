@@ -12,12 +12,11 @@
 * [color blindness](https://www.color-blindness.com/coblis-color-blindness-simulator)
 * [NVDA - Non Visual Desktop Access](https://www.nvda-fr.org)
 
-<!--
+## Séance 2
+* **Cours2** : [Prototypage](https://github.com/truillet/international/blob/master/utt/supports/prototypage.pdf)
+* **Cours2b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf)
+* **TP2** : [Initiation à Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP1_processing.pdf)
 
-* **Cours1** : [Prototypage](https://github.com/truillet/international/blob/master/utt/supports/prototypage.pdf)
-* **Cours1b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf)
-* **TP1** : [Initiation à Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP1_processing.pdf)
--->
 <!--
 ### Séance 2
 * **TD1** : [Conception de Systèmes Avancés](https://github.com/truillet/international/blob/master/utt/supports/CSI_v1.9.pdf)

@@ -15,7 +15,7 @@
 ## Séance 2
 * **Cours2** : [Conception & Prototypage](https://github.com/truillet/international/blob/master/utt/supports/https://github.com/truillet/international/blob/master/utt/supports/Conception_Prototypage.pdf)
 * **Cours2b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf)
-* **Cours2c** : [Un middleware pour l'interaction]()
+* **Cours2c** : [Un middleware pour l'interaction](https://github.com/truillet/international/blob/master/utt/supports/C_ivy_2.5.pdf)
 * **TP2** : [Initiation à Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP1_processing.pdf)
 
 <!--

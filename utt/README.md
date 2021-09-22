@@ -13,8 +13,9 @@
 * [NVDA - Non Visual Desktop Access](https://www.nvda-fr.org)
 
 ## Séance 2
-* **Cours2** : [Prototypage](https://github.com/truillet/international/blob/master/utt/supports/prototypage.pdf)
+* **Cours2** : [Conception & Prototypage](https://github.com/truillet/international/blob/master/utt/supports/https://github.com/truillet/international/blob/master/utt/supports/Conception_Prototypage.pdf)
 * **Cours2b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf)
+* **Cours2c** : [Un middleware pour l'interaction]()
 * **TP2** : [Initiation à Processing.org](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP1_processing.pdf)
 
 <!--

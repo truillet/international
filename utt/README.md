@@ -18,13 +18,13 @@
 * **Cours2c** : [Un middleware pour l'interaction](https://github.com/truillet/international/blob/master/utt/supports/C_ivy_2.5.pdf)
 * **TP2** : [Initiation à Processing.org](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
 
-### Séance 3
+## Séance 3
 * **TD1** : [Conception de Systèmes Avancés](https://github.com/truillet/international/blob/master/utt/supports/CSI_v1.9.pdf)
 * **Bureau d'Etudes** : [prototypage rapide]()
 * **TP2** : [Processing avancé](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
 
 <!--
-### Séance 4
+## Séance 4
  * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/ups/blob/master/m2ihm/Cours/I_V(IO)_Master_2_7.pdf)
  * **Cours** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
 

@@ -18,14 +18,13 @@
 * **Cours2c** : [Un middleware pour l'interaction](https://github.com/truillet/international/blob/master/utt/supports/C_ivy_2.5.pdf)
 * **TP2** : [Initiation à Processing.org](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
 
-<!--
-### Séance 2
-* **TD1** : [Conception de Systèmes Avancés](https://github.com/truillet/international/blob/master/utt/supports/CSI_v1.9.pdf)
-* **Bureau d'Etudes** : [prototypage rapide](https://github.com/truillet/international/blob/master/utt/supports/BE_prototypage_2020.pdf)
-* **Devoir à rendre** : Pour le 1er décembre, détails dans le document "Bureau d'Etudes"
-* **TP2** : [Processing avancé](https://github.com/truillet/upssitech/blob/master/SRI/1A/TP/TP2_processing.pdf)
-
 ### Séance 3
+* **TD1** : [Conception de Systèmes Avancés](https://github.com/truillet/international/blob/master/utt/supports/CSI_v1.9.pdf)
+* **Bureau d'Etudes** : [prototypage rapide]()
+* **TP2** : [Processing avancé](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
+
+<!--
+### Séance 4
  * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/ups/blob/master/m2ihm/Cours/I_V(IO)_Master_2_7.pdf)
  * **Cours** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
 
@@ -68,7 +67,6 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
  -->
  
  
-
 ## Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)
 * [Microsoft, Human-Computer Interaction in the Year 2020](https://www.microsoft.com/en-us/research/project/being-human/#:~:text=Human%2DComputer%20Interaction%20in%20the%20Year%202020&text=As%20we%20move%20further%20the,enables%20and%20recognizes%20human%20values.)

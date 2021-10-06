@@ -20,7 +20,7 @@
 
 ## Séance 3
 * **TD1** : [Conception de Systèmes Avancés](https://github.com/truillet/international/blob/master/utt/supports/CSI_v1.9.pdf)
-* **Bureau d'Etudes** : [prototypage rapide]()
+* **Bureau d'Etudes** : [prototypage rapide](https://github.com/truillet/international/blob/master/utt/supports/BE_prototypage_2021_UTT.pdf)
 * **TP2** : [Processing avancé](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
 
 <!--

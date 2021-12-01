@@ -22,14 +22,14 @@
 * **Cours3** : [ivy : un bus logiciel au service du prototypage avancé](https://github.com/truillet/ivy/blob/master/doc/C_ivy_2.5.pdf) et [Github ivy](https://github.com/truillet/ivy)
 * **TD1** : [Conception de Systèmes Avancés](https://github.com/truillet/international/blob/master/utt/supports/CSI_v1.9.pdf)
 * **Bureau d'Etudes** : [prototypage rapide](https://github.com/truillet/international/blob/master/utt/supports/BE_prototypage_2021_UTT.pdf)
-* **TP2** : [Processing avancé](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
+* **TP3** : [Processing avancé](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
 
 ## Séance 4
  * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/international/blob/master/utt/supports/I_V(IO)_Master_2_8.pdf)
  * **Cours** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
- * **TP3** - [Interaction vocale](https://github.com/truillet/international/blob/master/utt/supports/TP1_interaction_vocale.pdf) (2021)
- * **TP4** - [Interaction Multimodale en sortie](https://github.com/truillet/international/blob/master/utt/supports/TP6_multimodalite_sortie.pdf) (2021)
- * **TP5** - [Interaction gestuelle](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/TP2_InteractionGestuelle.pdf) (2021)
+ * **TP4** - [Interaction vocale](https://github.com/truillet/international/blob/master/utt/supports/TP1_interaction_vocale.pdf) (2021)
+ * **TP5** - [Interaction Multimodale en sortie](https://github.com/truillet/international/blob/master/utt/supports/TP6_multimodalite_sortie.pdf) (2021)
+ * **TP6** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP2_InteractionGestuelle.pdf) (2021)
  
  **Les outils utilisés dans le TP** : Agent de reconnaissance vocale [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale [ppilot5](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip), outil de supervision ivy [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) (lien vers le -> [bus ivy](https://github.com/truillet/ivy) <--)
 

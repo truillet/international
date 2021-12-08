@@ -30,8 +30,8 @@
 ## Séance 5
  * **Cours** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
  * **TP4** - [Interaction vocale](https://github.com/truillet/international/blob/master/utt/supports/TP4_interaction_vocale.pdf) (2021)
- * **TP5** - [Interaction Multimodale en sortie](https://github.com/truillet/international/blob/master/utt/supports/TP6_multimodalite_sortie.pdf) (2021)
- * **TP6** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP2_InteractionGestuelle.pdf) (2021)
+ * **TP5** - [Interaction Multimodale en sortie](https://github.com/truillet/international/blob/master/utt/supports/TP5_multimodalite_sortie.pdf) (2021)
+ * **TP6** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP6_InteractionGestuelle.pdf) (2021)
  
  **Les outils utilisés dans le TP** : Agent de reconnaissance vocale [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale [ppilot5](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip), outil de supervision ivy [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) (lien vers le -> [bus ivy](https://github.com/truillet/ivy) <--)
 

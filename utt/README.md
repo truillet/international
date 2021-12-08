@@ -26,6 +26,8 @@
 
 ## Séance 4
  * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/international/blob/master/utt/supports/I_V(IO)_Master_2_8.pdf)
+
+### Séance 5
  * **Cours** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
  * **TP4** - [Interaction vocale](https://github.com/truillet/international/blob/master/utt/supports/TP1_interaction_vocale.pdf) (2021)
  * **TP5** - [Interaction Multimodale en sortie](https://github.com/truillet/international/blob/master/utt/supports/TP6_multimodalite_sortie.pdf) (2021)
@@ -44,11 +46,11 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
    * [IcarP5](https://github.com/truillet/international/blob/master/utt/code/IcarP5.zip) (Intégration avec Processing.org d'ICAR)
    * [OneDollarIvy](https://github.com/truillet/OneDollarIvy) (Implémentation de l'algorithme $1 Recognition)
 
+
 <!--
-### Séance 5
- * **Cours** : [Les systèmes Mixtes](https://github.com/truillet/international/blob/master/utt/supports/realite_mixte.pdf)
- 
- ### Séance 5
+
+ ### Séance 6 
+* **Cours** : [Les systèmes Mixtes](https://github.com/truillet/international/blob/master/utt/supports/realite_mixte.pdf)
  * **Cours/TP** : [Prototypage Physique, un peu d'arduino](https://github.com/truillet/international/blob/master/utt/supports/arduino_UTT.pdf)
  * **Cours** : [Introduction au Raspberry Pi](https://github.com/truillet/international/blob/master/utt/supports/Introduction_RPi.pdf)
  

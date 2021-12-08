@@ -27,7 +27,7 @@
 ## Séance 4
  * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/international/blob/master/utt/supports/I_V(IO)_Master_2_8.pdf)
 
-### Séance 5
+## Séance 5
  * **Cours** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
  * **TP4** - [Interaction vocale](https://github.com/truillet/international/blob/master/utt/supports/TP1_interaction_vocale.pdf) (2021)
  * **TP5** - [Interaction Multimodale en sortie](https://github.com/truillet/international/blob/master/utt/supports/TP6_multimodalite_sortie.pdf) (2021)

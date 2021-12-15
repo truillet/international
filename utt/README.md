@@ -46,13 +46,9 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
    * [**IcarP5**](https://github.com/truillet/international/blob/master/utt/code/IcarP5.zip) (Intégration avec Processing.org d'ICAR)
    * [**OneDollarIvy**](https://github.com/truillet/OneDollarIvy) (Implémentation de l'algorithme $1 Recognition)
 
-
-<!--
-
- ### Séance 6 
-* **Cours** : [Les systèmes Mixtes](https://github.com/truillet/international/blob/master/utt/supports/realite_mixte.pdf)
- * **Cours/TP** : [Prototypage Physique, un peu d'arduino](https://github.com/truillet/international/blob/master/utt/supports/arduino_UTT.pdf)
- * **Cours** : [Introduction au Raspberry Pi](https://github.com/truillet/international/blob/master/utt/supports/Introduction_RPi.pdf)
+ ## Séance 6 
+   * **Cours/TP** : [Prototypage Physique, un peu d'arduino](https://github.com/truillet/international/blob/master/utt/supports/arduino_UTT.pdf)
+   * **Cours** : [Introduction au Raspberry Pi](https://github.com/truillet/international/blob/master/utt/supports/Introduction_RPi.pdf)
  
  **Code**
  * [Exercices de base](https://github.com/truillet/international/blob/master/utt/code/base_arduino.zip)
@@ -63,7 +59,6 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
  * [Exemple de liaison série processing/Arduino](https://github.com/truillet/international/blob/master/utt/code/processing_arduino.zip)
  
  Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois]
- -->
  
  
 ## Quelques liens à lire / parcourir

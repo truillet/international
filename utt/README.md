@@ -58,7 +58,7 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
  * [Point d'accès WiFi](https://github.com/truillet/international/blob/master/utt/code/AcessPoint_ESP32.zip)
  * [Exemple de liaison série processing/Arduino](https://github.com/truillet/international/blob/master/utt/code/processing_arduino.zip)
  
- Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois]
+ Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois] ou le driver [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers), utile pour les ESP32 par exemple
  
  
 ## Quelques liens à lire / parcourir

@@ -31,11 +31,13 @@
 
 ### Articles à lire
 * [Reimagining Participatory Design](http://interactions.acm.org/archive/view/january-february-2019/reimagining-participatory-design), ACM Interactions, January-February 2019, p.26
+* [Chaine Youtube "The Coding Train"](https://www.youtube.com/thecodingtrain)
+
 
 ### Liens logiciels
 * [Processing.org](https://processing.org)
 * [p5js](https://p5js.org)
-* [Chaine Youtube "The Coding Train"](https://www.youtube.com/thecodingtrain)
+
 
 ## Séance 3
 * **Cours3** : [ivy : un bus logiciel au service du prototypage avancé](https://github.com/truillet/ivy/blob/master/doc/C_ivy_2.5.pdf) et [Github ivy](https://github.com/truillet/ivy)

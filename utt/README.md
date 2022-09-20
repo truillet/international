@@ -8,7 +8,17 @@
 * **Cours1b** : [Inclusivité](https://github.com/truillet/international/blob/master/utt/supports/Handicap.pdf) (2022)
 * **TP1** : [Accessibilité & Handicap](https://github.com/truillet/international/blob/master/utt/supports/TP1_Accessibilite_et_Handicap.pdf) (2022)
 
-### Liens
+### Quelques articles "à lire" ou "écouter"
+* [Les cours IHM au Collège de France de Wendy Mackay](https://www.college-de-france.fr/site/wendy-mackay/_agenda.htm)
+* [The Augmentation of Douglas Engelbart](https://www.youtube.com/watch?v=_7ZtISeGyCY)
+
+[<img src="https://img.youtube.com/vi/_7ZtISeGyCY/0.jpg" width=250 alt="Put That There">](https://www.youtube.com/watch?v=_7ZtISeGyCY)
+
+* [The Information Capacity of he Human Motor System in Controlling The Amplitude of Movement](https://github.com/truillet/upssitech/blob/master/SRI/1A/articles/Fitts_1954.pdf), Paul Fitts in Journal of Experimental Psychology, vol. 47, No 6, June 1954
+* [50 ans d'interaction homme-machine](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur/)
+* [ACM Interactions Magazine](http://interactions.acm.org)
+
+### Liens logiciels
 * [color blindness](https://www.color-blindness.com/coblis-color-blindness-simulator)
 * [NVDA - Non Visual Desktop Access](https://www.nvda-fr.org)
 
@@ -17,6 +27,10 @@
 * **Cours2b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf)
 * **Cours2c** : [Un middleware pour l'interaction](https://github.com/truillet/international/blob/master/utt/supports/C_ivy_2.5.pdf)
 * **TP2** : [Initiation à Processing.org](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
+
+### Articles à lire
+* [Reimagining Participatory Design](http://interactions.acm.org/archive/view/january-february-2019/reimagining-participatory-design), ACM Interactions, January-February 2019, p.26
+
 
 ## Séance 3
 * **Cours3** : [ivy : un bus logiciel au service du prototypage avancé](https://github.com/truillet/ivy/blob/master/doc/C_ivy_2.5.pdf) et [Github ivy](https://github.com/truillet/ivy)

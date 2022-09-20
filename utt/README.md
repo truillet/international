@@ -24,13 +24,18 @@
 
 ## Séance 2
 * **Cours2** : [Conception & Prototypage](https://github.com/truillet/international/blob/master/utt/supports/Conception_Prototypage.pdf) (2022)
-* **Cours2b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf)
+* **Cours2b** : [Introduction à Processing](https://github.com/truillet/international/blob/master/utt/supports/introduction_processing.pdf) (2022)
 * **Cours2c** : [Un middleware pour l'interaction](https://github.com/truillet/international/blob/master/utt/supports/C_ivy_2.6.pdf) (2022)
+
 * **TP2** : [Initiation à Processing.org](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
 
 ### Articles à lire
 * [Reimagining Participatory Design](http://interactions.acm.org/archive/view/january-february-2019/reimagining-participatory-design), ACM Interactions, January-February 2019, p.26
 
+### Liens logiciels
+* [Processing.org](https://processing.org)
+* [p5js](https://p5js.org)
+* [Chaine Youtube "The Coding Train"](https://www.youtube.com/thecodingtrain)
 
 ## Séance 3
 * **Cours3** : [ivy : un bus logiciel au service du prototypage avancé](https://github.com/truillet/ivy/blob/master/doc/C_ivy_2.5.pdf) et [Github ivy](https://github.com/truillet/ivy)

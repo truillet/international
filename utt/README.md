@@ -46,6 +46,21 @@
 * **TP3** : [Processing avancé](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
 
 ## Séance 4
+   * **Cours/TP** : [Prototypage Physique, un peu d'arduino](https://github.com/truillet/international/blob/master/utt/supports/arduino_UTT.pdf)
+   * **Cours** : [Introduction au Raspberry Pi](https://github.com/truillet/international/blob/master/utt/supports/Introduction_RPi.pdf)
+ 
+ **Code**
+ * [Exercices de base](https://github.com/truillet/international/blob/master/utt/code/base_arduino.zip)
+ * [DHT - capteur de température et d'humidité](https://github.com/truillet/international/blob/master/utt/code/DHT_ESP32.zip)
+ * [neopixel - des leds multicolores](https://github.com/truillet/international/blob/master/utt/code/neopixel_ESP32.zip)
+ * [Near Field Communication - un capteur NFC](https://github.com/truillet/international/blob/master/utt/code/NFC_ESP32.zip)
+ * [Point d'accès WiFi](https://github.com/truillet/international/blob/master/utt/code/AcessPoint_ESP32.zip)
+ * [Exemple de liaison série processing/Arduino](https://github.com/truillet/international/blob/master/utt/code/processing_arduino.zip)
+ 
+ Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois] ou le driver [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers), utile pour les ESP32 par exemple
+ 
+<!--
+## Séance 4
  * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/international/blob/master/utt/supports/I_V(IO)_Master_2_8.pdf)
 
 ## Séance 5
@@ -67,20 +82,7 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
    * [**IcarP5**](https://github.com/truillet/international/blob/master/utt/code/IcarP5.zip) (Intégration avec Processing.org d'ICAR)
    * [**OneDollarIvy**](https://github.com/truillet/OneDollarIvy) (Implémentation de l'algorithme $1 Recognition)
 
- ## Séance 6 
-   * **Cours/TP** : [Prototypage Physique, un peu d'arduino](https://github.com/truillet/international/blob/master/utt/supports/arduino_UTT.pdf)
-   * **Cours** : [Introduction au Raspberry Pi](https://github.com/truillet/international/blob/master/utt/supports/Introduction_RPi.pdf)
- 
- **Code**
- * [Exercices de base](https://github.com/truillet/international/blob/master/utt/code/base_arduino.zip)
- * [DHT - capteur de température et d'humidité](https://github.com/truillet/international/blob/master/utt/code/DHT_ESP32.zip)
- * [neopixel - des leds multicolores](https://github.com/truillet/international/blob/master/utt/code/neopixel_ESP32.zip)
- * [Near Field Communication - un capteur NFC](https://github.com/truillet/international/blob/master/utt/code/NFC_ESP32.zip)
- * [Point d'accès WiFi](https://github.com/truillet/international/blob/master/utt/code/AcessPoint_ESP32.zip)
- * [Exemple de liaison série processing/Arduino](https://github.com/truillet/international/blob/master/utt/code/processing_arduino.zip)
- 
- Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois] ou le driver [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers), utile pour les ESP32 par exemple
- 
+-->
  
 ## Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)

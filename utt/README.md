@@ -59,11 +59,8 @@
  
  Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois] ou le driver [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers), utile pour les ESP32 par exemple
  
-<!--
-## Séance 4
- * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/international/blob/master/utt/supports/I_V(IO)_Master_2_8.pdf)
-
 ## Séance 5
+ * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/international/blob/master/utt/supports/I_V(IO)_Master_2_8.pdf)
  * **Cours** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
  * **TP4** - [Interaction vocale](https://github.com/truillet/international/blob/master/utt/supports/TP4_interaction_vocale.pdf) (2021)
  * **TP5** - [Interaction Multimodale en sortie](https://github.com/truillet/international/blob/master/utt/supports/TP5_multimodalite_sortie.pdf) (2021)
@@ -82,7 +79,6 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
    * [**IcarP5**](https://github.com/truillet/international/blob/master/utt/code/IcarP5.zip) (Intégration avec Processing.org d'ICAR)
    * [**OneDollarIvy**](https://github.com/truillet/OneDollarIvy) (Implémentation de l'algorithme $1 Recognition)
 
--->
  
 ## Quelques liens à lire / parcourir
 * [M. Beaudoin-Lafon, 50 ans d'interaction homme-machine : retours vers le futur, Interstices.info](https://interstices.info/50-ans-dinteraction-homme-machine-retours-vers-le-futur)

@@ -52,7 +52,7 @@
  Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois] ou le driver [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers), utile pour les ESP32 par exemple
  
 ## Séance 4
- * **Cours4** : [Vers le multimodal, un peu de parole(https://github.com/truillet/international/blob/master/utt/supports/I_V(IO)_Master_2_8.pdf)
+ * **Cours4** : [Vers le multimodal, un peu de parole](https://github.com/truillet/international/blob/master/utt/supports/I_V(IO)_Master_2_8.pdf)
 
 ## Séance 5
 * **Cours5** : [ivy : un bus logiciel au service du prototypage avancé](https://github.com/truillet/ivy/blob/master/doc/C_ivy_2.5.pdf) et [Github ivy](https://github.com/truillet/ivy)

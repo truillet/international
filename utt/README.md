@@ -33,20 +33,12 @@
 * [Reimagining Participatory Design](http://interactions.acm.org/archive/view/january-february-2019/reimagining-participatory-design), ACM Interactions, January-February 2019, p.26
 * [Chaine Youtube "The Coding Train"](https://www.youtube.com/thecodingtrain)
 
-
 ### Liens logiciels
 * [Processing.org](https://processing.org)
 * [p5js](https://p5js.org)
 
-
 ## Séance 3
-* **Cours3** : [ivy : un bus logiciel au service du prototypage avancé](https://github.com/truillet/ivy/blob/master/doc/C_ivy_2.5.pdf) et [Github ivy](https://github.com/truillet/ivy)
-* **TD1** : [Conception de Systèmes Avancés](https://github.com/truillet/international/blob/master/utt/supports/CSI_v1.9.pdf)
-* **Bureau d'Etudes** : [prototypage rapide](https://github.com/truillet/international/blob/master/utt/supports/BE_prototypage_2021_UTT.pdf)
-* **TP3** : [Processing avancé](https://github.com/truillet/international/blob/master/utt/supports/TP2UTT_processing.pdf)
-
-## Séance 4
-   * **Cours/TP** : [Prototypage Physique, un peu d'arduino](https://github.com/truillet/international/blob/master/utt/supports/arduino_UTT.pdf)
+   * **Cours/TP3** : [Prototypage Physique, un peu d'arduino](https://github.com/truillet/international/blob/master/utt/supports/arduino_UTT.pdf)
    * **Cours** : [Introduction au Raspberry Pi](https://github.com/truillet/international/blob/master/utt/supports/Introduction_RPi.pdf)
  
  **Code**
@@ -59,14 +51,21 @@
  
  Suivant le matériel utilisé, vous serez amenés à utiliser le driver [CH341SER](https://github.com/HobbyComponents/CH340-Drivers/tree/master/CH341SER) [notamment pour les clones chinois] ou le driver [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers), utile pour les ESP32 par exemple
  
+## Séance 4
+ * **Cours4** : [Vers le multimodal, un peu de parole(https://github.com/truillet/international/blob/master/utt/supports/I_V(IO)_Master_2_8.pdf)
+
 ## Séance 5
- * **Cours** : [Vers le multimodal, un peu de parole](https://github.com/truillet/international/blob/master/utt/supports/I_V(IO)_Master_2_8.pdf)
- * **Cours** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
+* **Cours5** : [ivy : un bus logiciel au service du prototypage avancé](https://github.com/truillet/ivy/blob/master/doc/C_ivy_2.5.pdf) et [Github ivy](https://github.com/truillet/ivy)
+
  * **TP4** - [Interaction vocale](https://github.com/truillet/international/blob/master/utt/supports/TP4_interaction_vocale.pdf) (2021)
  * **TP5** - [Interaction Multimodale en sortie](https://github.com/truillet/international/blob/master/utt/supports/TP5_multimodalite_sortie.pdf) (2021)
- * **TP6** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP6_InteractionGestuelle.pdf) (2021)
- 
+
  **Les outils utilisés dans le TP** : Agent de reconnaissance vocale [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale [ppilot5](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip), outil de supervision ivy [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) (lien vers le -> [bus ivy](https://github.com/truillet/ivy) <--)
+
+## Séance 6
+* **Cours6** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
+
+ * **TP6** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP6_InteractionGestuelle.pdf) (2021)
 
 _Exemple de code Processing permettant la reconnaissance vocale avec Google Chrome_ : **[RecoChrome](https://github.com/truillet/international/blob/master/utt/code/RecoChrome.zip)**
 

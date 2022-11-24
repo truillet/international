@@ -60,23 +60,27 @@
  * **TP4** - [Interaction vocale](https://github.com/truillet/international/blob/master/utt/supports/TP4_interaction_vocale.pdf) (2021)
  * **TP5** - [Interaction Multimodale en sortie](https://github.com/truillet/international/blob/master/utt/supports/TP5_multimodalite_sortie.pdf) (2021)
 
- **Les outils utilisés dans le TP** : Agent de reconnaissance vocale [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale [ppilot5](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip), outil de supervision ivy [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) (lien vers le -> [bus ivy](https://github.com/truillet/ivy) <--)
+ **Les outils utilisés dans le TP** : 
+ * **Les outils utilisés dans le TP** : Agent de reconnaissance vocale / Speech Recognizer agent [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale / speech Synthesis agent [ppilot5 v 3.3](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip), outil de supervision ivy / ivy monitoring tool [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) ou / or [visionneur](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/visionneur_1_2.zip)
+  * **[GrXML pour SAPI 5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/Memo/GrXML.pdf)**
+  * **[SSML pour SAPI 5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/Memo/ssml.pdf)**
+
+_Exemple de code Processing permettant la reconnaissance vocale avec Google Chrome_ : **[RecoChrome](https://github.com/truillet/international/blob/master/utt/code/RecoChrome.zip)**
+
+_Exemple de code Processing permettant l'affichage de la reconnaissance vocale et l'envoi du résultat vers la synthèse vocale / Example of Processing code allowing the text ouptut of speech recognition and sending the result to TTS_ : **[vocal_ivy](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/vocal_ivy.zip)**
 
 ## Séance 6
 * **Cours6** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
 
  * **TP6** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP6_InteractionGestuelle.pdf) (2021)
 
-_Exemple de code Processing permettant la reconnaissance vocale avec Google Chrome_ : **[RecoChrome](https://github.com/truillet/international/blob/master/utt/code/RecoChrome.zip)**
-
-_Exemple de code Processing permettant l'affichage de la reconnaissance vocale et envoi vers la synthèse_ : **[vocal_ivy](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/vocal_ivy.zip)**
-
-_Exemple de code Processing permettant l'enregistrement de formes dessinées à l'écran_ : **[Enregistrement Forme](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Enregistrement_Forme.zip)**
+_Exemple de code Processing permettant la gestion de formes géométriques / Example of Processing code for rmanipulating different shapes_ :_ : **[Palette](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Palette.zip)**
 
 **Des systèmes de reconnaissance de gestes**
-   * **ICAR** (implémentation de l'algorithme de Rubine) [code source](https://github.com/truillet/icar), [fichier jar](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.1.2.zip) et [documentation](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.pdf)
-   * [**IcarP5**](https://github.com/truillet/international/blob/master/utt/code/IcarP5.zip) (Intégration avec Processing.org d'ICAR)
-   * [**OneDollarIvy**](https://github.com/truillet/OneDollarIvy) (Implémentation de l'algorithme $1 Recognition)
+* **OneDollarIvy** (implémentation de l'algorithme du [$1 Recognizer](http://faculty.washington.edu/wobbrock/pubs/uist-07.01.pdf)) [code source](https://github.com/truillet/OneDollarIvy)
+* **ICAR** (implémentation de l'algorithme de [Rubine](http://reports-archive.adm.cs.cmu.edu/anon/itc/CMU-ITC-099.pdf)) [code source](https://github.com/truillet/icar), [fichier jar](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.1.2.zip) et [documentation](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/icar.pdf)
+* [**IcarP5**](https://github.com/truillet/international/blob/master/utt/code/IcarP5.zip) (Intégration avec Processing.org d'ICAR)
+* **[$N Recognizer](https://depts.washington.edu/acelab/proj/dollar/ndollar.html)**
 
  
 ## Quelques liens à lire / parcourir
@@ -84,6 +88,7 @@ _Exemple de code Processing permettant l'enregistrement de formes dessinées à 
 * [Microsoft, Human-Computer Interaction in the Year 2020](https://www.microsoft.com/en-us/research/project/being-human/#:~:text=Human%2DComputer%20Interaction%20in%20the%20Year%202020&text=As%20we%20move%20further%20the,enables%20and%20recognizes%20human%20values.)
 * [Reimagining Participatory Design](http://interactions.acm.org/archive/view/january-february-2019/reimagining-participatory-design), ACM Interactions, January-February 2019, p.26
 * [ACM Interactions Magazine](http://interactions.acm.org)
+* [<img src="https://img.youtube.com/vi/RyBEUyEtxQo/0.jpg" width=250 alt="Put That There">](https://youtu.be/RyBEUyEtxQo)
 * [R. Bolt, "Put-That-There": Voice and Gesture at the Graphics Interface, SIGGRAPH 1980](https://www.media.mit.edu/speech/papers/1980/bolt_SIGGRAPH80_put-that-there.pdf)
 * [Sh. Oviatt, Ten Myths on Multimodal Interaction, Communication of the ACM, volume 42, Issue 11, November 1999](https://dl.acm.org/doi/10.1145/319382.319398)
 

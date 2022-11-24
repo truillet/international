@@ -67,14 +67,14 @@
 
 _Exemple de code Processing permettant la reconnaissance vocale avec Google Chrome_ : **[RecoChrome](https://github.com/truillet/international/blob/master/utt/code/RecoChrome.zip)**
 
-_Exemple de code Processing permettant l'affichage de la reconnaissance vocale et l'envoi du résultat vers la synthèse vocale / Example of Processing code allowing the text ouptut of speech recognition and sending the result to TTS_ : **[vocal_ivy](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/vocal_ivy.zip)**
+_Exemple de code Processing permettant l'affichage de la reconnaissance vocale et l'envoi du résultat vers la synthèse vocale : **[vocal_ivy](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/vocal_ivy.zip)**
 
 ## Séance 6
 * **Cours6** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
 
  * **TP6** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP6_InteractionGestuelle.pdf) (2021)
 
-_Exemple de code Processing permettant la gestion de formes géométriques / Example of Processing code for rmanipulating different shapes_ :_ : **[Palette](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Palette.zip)**
+_Exemple de code Processing permettant la gestion de formes géométriques_ : **[Palette](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Palette.zip)**
 
 **Des systèmes de reconnaissance de gestes**
 * **OneDollarIvy** (implémentation de l'algorithme du [$1 Recognizer](http://faculty.washington.edu/wobbrock/pubs/uist-07.01.pdf)) [code source](https://github.com/truillet/OneDollarIvy)

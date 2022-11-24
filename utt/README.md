@@ -58,7 +58,6 @@
 * **Cours5** : [ivy : un bus logiciel au service du prototypage avancé](https://github.com/truillet/ivy/blob/master/doc/C_ivy_2.5.pdf) et [Github ivy](https://github.com/truillet/ivy)
 
  * **TP4** - [Interaction vocale](https://github.com/truillet/international/blob/master/utt/supports/TP4_interaction_vocale.pdf) (2021)
- * **TP5** - [Interaction Multimodale en sortie](https://github.com/truillet/international/blob/master/utt/supports/TP5_multimodalite_sortie.pdf) (2021)
 
  **Les outils utilisés dans le TP** : 
  * **Les outils utilisés dans le TP** : Agent de reconnaissance vocale / Speech Recognizer agent [sra5](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/sra5.zip), agent de synthèse vocale / speech Synthesis agent [ppilot5 v 3.3](https://github.com/truillet/ivy/blob/master/agents/ppilot5_3.3.zip), outil de supervision ivy / ivy monitoring tool [Probe](https://github.com/truillet/ivy/blob/master/code/Probe.zip) ou / or [visionneur](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Outils/visionneur_1_2.zip)
@@ -72,7 +71,7 @@ _Exemple de code Processing permettant l'affichage de la reconnaissance vocale e
 ## Séance 6
 * **Cours6** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
 
- * **TP6** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP6_InteractionGestuelle.pdf) (2021)
+ * **TP5** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP6_InteractionGestuelle.pdf) (2021)
 
 _Exemple de code Processing permettant la gestion de formes géométriques_ : **[Palette](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Palette.zip)**
 

@@ -71,7 +71,7 @@ _Exemple de code Processing permettant l'affichage de la reconnaissance vocale e
 ## Séance 6
 * **Cours6** : [Vers le multimodal, un peu de geste](https://github.com/truillet/international/blob/master/utt/supports/Interaction_Gestuelle.pdf)
 
- * **TP5** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP6_InteractionGestuelle.pdf) (2021)
+ * **TP5** - [Interaction gestuelle](https://github.com/truillet/international/blob/master/utt/supports/TP5_InteractionGestuelle.pdf) (2022)
 
 _Exemple de code Processing permettant la gestion de formes géométriques_ : **[Palette](https://github.com/truillet/upssitech/blob/master/SRI/3A/IHM/TP/Code/Palette.zip)**
 
